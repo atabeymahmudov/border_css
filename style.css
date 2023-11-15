@@ -1,0 +1,105 @@
+div{
+    display: inline-table;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width: 100%;
+    margin: 5px;
+    text-align: center;
+    box-shadow: rgb(20, 2, 2);
+}
+.container{
+    height: 500px;
+    width: 600px;
+}
+.item-1{
+    background-color: rgb(221, 76, 243);
+    width: 150px;
+    height: 90px;
+    border: solid;
+    color: orange;
+}
+.item-2{
+    background-color: rgb(221, 76, 243);
+    width: 150px;
+    height: 90px;
+    border: dashed;
+    color: orange;
+}
+.item-3{
+    background-color: rgb(221, 76, 243);
+    width: 150px;
+    height: 90px;
+    border: dotted;
+    color: orange;
+}
+.item-4{
+    background-color: rgb(221, 76, 243);
+    width: 150px;
+    height: 90px;
+    border: double;
+    color: orange;
+}
+.item-5{
+    background-color: rgb(221, 76, 243);
+    width: 150px;
+    height: 90px;
+    border: groove;
+    color: orange;
+}
+.item-6{
+    background-color: rgb(221, 76, 243);
+    width: 150px;
+    height: 90px;
+    border: ridge;
+    color: orange;
+}
+.item-7{
+    background-color: rgb(221, 76, 243);
+    width: 150px;
+    height: 90px;
+    border: inset;
+    color: orange;
+}
+.item-8{
+    background-color: rgb(221, 76, 243);
+    width: 150px;
+    height: 90px;
+    border: outset;
+    color: orange;
+}
+.item-9{
+    background-color: rgb(221, 76, 243);
+    width: 150px;
+    height: 90px;
+    border: none;
+    color: orange;
+}
+body .item-1 h1{
+    color: #FFF;
+}
+
+body .item-2 h1{
+    color: #FFF;
+}
+body .item-3 h1{
+    color: #FFF;
+}
+body .item-4 h1{
+    color: #FFF;
+}
+body .item-5 h1{
+    color: #FFF;
+}
+body .item-6 h1{
+    color: #FFF;
+}
+body .item-7 h1{
+    color: #FFF;
+}
+body .item-8 h1{
+    color: #FFF;
+}
+body .item-9 h1{
+    color: #FFF;
+}
